@@ -1,4 +1,4 @@
-const CONTACT_FORM_EMAIL = 'jonathan.savastano1246@gmail.com';
+const CONTACT_FORM_EMAIL = 'dhlineback@gmail.com';
 
 document.addEventListener('DOMContentLoaded', function() {
   const navToggle = document.getElementById('navToggle');
